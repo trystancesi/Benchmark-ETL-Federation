@@ -1,0 +1,15 @@
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\bin\Release\net9.0\FederatedQuery.deps.json
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\bin\Release\net9.0\FederatedQuery.dll
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\bin\Release\net9.0\FederatedQuery.pdb
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\bin\Release\net9.0\BenchmarkCore.dll
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\bin\Release\net9.0\BenchmarkCore.pdb
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\obj\Release\net9.0\FederatedQuery.csproj.AssemblyReference.cache
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\obj\Release\net9.0\FederatedQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\obj\Release\net9.0\FederatedQuery.AssemblyInfoInputs.cache
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\obj\Release\net9.0\FederatedQuery.AssemblyInfo.cs
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\obj\Release\net9.0\FederatedQuery.csproj.CoreCompileInputs.cache
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\obj\Release\net9.0\Federate.F05EDD0B.Up2Date
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\obj\Release\net9.0\FederatedQuery.dll
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\obj\Release\net9.0\refint\FederatedQuery.dll
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\obj\Release\net9.0\FederatedQuery.pdb
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\FederatedQuery\obj\Release\net9.0\ref\FederatedQuery.dll

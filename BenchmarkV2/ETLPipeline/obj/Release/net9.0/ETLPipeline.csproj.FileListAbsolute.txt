@@ -1,0 +1,15 @@
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\obj\Release\net9.0\ETLPipeline.csproj.AssemblyReference.cache
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\obj\Release\net9.0\ETLPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\obj\Release\net9.0\ETLPipeline.AssemblyInfoInputs.cache
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\obj\Release\net9.0\ETLPipeline.AssemblyInfo.cs
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\obj\Release\net9.0\ETLPipeline.csproj.CoreCompileInputs.cache
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\bin\Release\net9.0\ETLPipeline.deps.json
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\bin\Release\net9.0\ETLPipeline.dll
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\bin\Release\net9.0\ETLPipeline.pdb
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\bin\Release\net9.0\BenchmarkCore.dll
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\bin\Release\net9.0\BenchmarkCore.pdb
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\obj\Release\net9.0\ETLPipel.CFA81061.Up2Date
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\obj\Release\net9.0\ETLPipeline.dll
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\obj\Release\net9.0\refint\ETLPipeline.dll
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\obj\Release\net9.0\ETLPipeline.pdb
+C:\Users\tryst\Desktop\Benchmark\BenchmarkV2\ETLPipeline\obj\Release\net9.0\ref\ETLPipeline.dll
